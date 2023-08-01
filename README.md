@@ -42,5 +42,8 @@
   <a href="https://twitter.com/dinaelurdaneta" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter />
   </a>
+  <a href="https://codepen.io/dinael" target="_blank">
+    <img src=https://img.shields.io/badge/codepen-%2300acee.svg?color=000&style=for-the-badge&logo=codepen&logoColor=white alt=twitter />
+  </a>
 </div>
 
