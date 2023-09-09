@@ -1,5 +1,5 @@
 # Hi there 👋 <br/> I'm Dinael URDANETA
-##UI Engineer
+## UI Engineer
 <p>
   I specialize in UI (User Interfaces), Design Systems, Web Design and Development (HTML + CSS + JS), accessibility, planning, UX, wireframe, prototyping, design systems, design tokens, etc.
 </p>
