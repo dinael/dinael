@@ -1,5 +1,8 @@
-# Hi there 👋 <br/> I'm Dinael URDANETA
-## UI Developer and UX Designer
+<header>
+  # Hi there 👋 <br/> I'm Dinael URDANETA
+  ## UI Developer and UX Designer
+  <img src="[https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=fff&labelColor=282828](https://res.cloudinary.com/db2fqw7ex/image/upload/v1697018280/cover_qwetwl.png)">
+</header>
 <p>
   I specialize in UI (User Interfaces), Design Systems, Web Design and Development (HTML + CSS + JS), accessibility, planning, UX, wireframe, prototyping, design systems, design tokens, etc.
 </p>
@@ -13,13 +16,13 @@
 
 ## My favorite stack:
 <div align="center">
-  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=fff&labelColor=282828">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=282828">
-  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828">
-  <img src="https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=sass&logoColor=cc6699&labelColor=282828">
-  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Storybook-ff528c?style=for-the-badge&logo=storybook&logoColor=ff528c&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=fff&labelColor=282828" alt="Figma">
+  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS-264de4?style=for-the-badge&logo=css3&logoColor=264de4&labelColor=282828" alt="CSS3">
+  <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=f7df1e&labelColor=282828" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-SASS-cc6699?style=for-the-badge&logo=sass&logoColor=cc6699&labelColor=282828" alt="SASS">
+  <img src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=282828" alt="React">
+  <img src="https://img.shields.io/badge/-Storybook-ff528c?style=for-the-badge&logo=storybook&logoColor=ff528c&labelColor=282828" alt="StoryBook">
 </div>
 
 ## Skills:
