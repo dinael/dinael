@@ -1,7 +1,7 @@
 <header>
+  <img src="https://res.cloudinary.com/db2fqw7ex/image/upload/v1697018280/cover_qwetwl.png">
   # Hi there 👋 <br/> I'm Dinael URDANETA
   ## UI Developer and UX Designer
-  <img src="[https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma&logoColor=fff&labelColor=282828](https://res.cloudinary.com/db2fqw7ex/image/upload/v1697018280/cover_qwetwl.png)">
 </header>
 <p>
   I specialize in UI (User Interfaces), Design Systems, Web Design and Development (HTML + CSS + JS), accessibility, planning, UX, wireframe, prototyping, design systems, design tokens, etc.
