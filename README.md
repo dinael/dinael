@@ -1,7 +1,11 @@
 <header>
   <img src="https://res.cloudinary.com/db2fqw7ex/image/upload/v1697018280/cover_qwetwl.png">
-  # Hi there 👋 <br/> I'm Dinael URDANETA
-  ## UI Developer and UX Designer
+  <h1>
+    Hi there 👋 <br/> I'm Dinael URDANETA
+  </h1>
+  <p>
+    UI Developer and UX Designer
+  </p> 
 </header>
 <p>
   I specialize in UI (User Interfaces), Design Systems, Web Design and Development (HTML + CSS + JS), accessibility, planning, UX, wireframe, prototyping, design systems, design tokens, etc.
