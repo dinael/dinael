@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://res.cloudinary.com/db2fqw7ex/image/upload/v1697018280/cover_qwetwl.png"
-       alt="" />
-</div>
 # Hi there 👋 <br/> I'm Dinael URDANETA
 ## UI Developer and UX Designer
 <p>
