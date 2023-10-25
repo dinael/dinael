@@ -4,7 +4,7 @@
     Hi there 👋 <br/> I'm Dinael URDANETA
   </h1>
   <p>
-    UI Engenieer <br/> UI Developer and UX Designer
+    UI Engineer <br/> UI Developer and UX Designer
   </p> 
 </header>
 <p>
