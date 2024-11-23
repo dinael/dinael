@@ -1,5 +1,5 @@
 <header>
-  <img src="[https://media.licdn.com/dms/image/D4D16AQG5i6ijt7YSGA/profile-displaybackgroundimage-shrink_350_1400/0/1696936886361?e=1726704000&v=beta&t=vhQkvyDDX160s_YrWhpbjb5K86ENQk5TZP7omKEZxxc](https://raw.githubusercontent.com/dinael/dinael/refs/heads/main/cover.jpg)">
+  <img src="https://pbs.twimg.com/profile_banners/38975545/1708077887/1500x500" >
   <h1>
     Hi there 👋 <br/> I'm Dinael URDANETA
   </h1>
@@ -11,11 +11,11 @@
   I specialize in UI (User Interfaces), Design Systems, Web Design and Development (HTML + CSS + JS), accessibility, planning, UX, wireframe, prototyping, design systems, design tokens, etc.
 </p>
 <p>
-  As a UX/UI designer, my job is to collaborate with the business unit and product owners to guide the product to creative and innovative concepts focused on the user but always meeting objectives. Documenting methodologies, processes, and project results.
+  As a UX/UI designer, my job is to collaborate with the business unit and product owners to guide the product to creative and innovative concepts focused on the user but always meeting objectives, documenting methodologies, processes, and project results.
 </p>
 
 <p>
-  As a UI Developer, I am specialized in the development of user interfaces, reusable, scalable, modular, CSS architecture (SMACSS, ATOMIC, ITCSS, etc), with great attention to detail and always with an eye toward accessibility, usability, and user experience.
+  As a UI Developer, I specialize in developing user interfaces, reusable, scalable, modular CSS architecture (SMACSS, ATOMIC, ITCSS, etc.), paying great attention to detail and always considering accessibility, usability, and user experience.
 </p>
 
 ## My favorite stack:
