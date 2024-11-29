@@ -11,11 +11,11 @@
   I specialize in UI (User Interfaces), Design Systems, Web Design and Development (HTML + CSS + JS), accessibility, planning, UX, wireframe, prototyping, design systems, design tokens, etc.
 </p>
 <p>
-  As a UX/UI designer, my job is to collaborate with the business unit and product owners to guide the product to creative and innovative concepts focused on the user but always meeting objectives, documenting methodologies, processes, and project results.
+  As a UX/UI designer, I collaborate with the business unit and product owners to guide the product to creative and innovative concepts focused on the user but always meeting objectives, documenting methodologies, processes, and project results.
 </p>
 
 <p>
-  As a UI Developer, I specialize in developing user interfaces, reusable, scalable, modular CSS architecture (SMACSS, ATOMIC, ITCSS, etc.), paying great attention to detail and always considering accessibility, usability, and user experience.
+  As a UI Developer, I specialize in developing user interfaces and reusable, scalable, modular CSS architecture (SMACSS, ATOMIC, SUITCSS, ITCSS, etc.). I pay great attention to detail and always consider accessibility, usability, and user experience.
 </p>
 
 ## My favorite stack:
